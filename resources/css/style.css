@@ -19,7 +19,7 @@ a {
 
 
 .sub--header {
-  font-family: Verdana;
+  font-family: Verdana, georgia, sans-serif;
   font-size: 21px;
   color: Gray;
 }
