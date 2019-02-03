@@ -18,7 +18,8 @@ a {
 }
 
 
-video.mp4 {
-  height: 700px;
-  width: 600px;
+.sub--header {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
 }
