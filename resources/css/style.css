@@ -1,4 +1,4 @@
-h1 {
+.header--main {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
@@ -13,12 +13,19 @@ body {
 }
 
 
-h3 {
+p {
   color: Aquamarine;
   font-size: 16px;
 }
 
 
-.comingsoon {
-  text-decoration: underline;
+video.mp4 {
+  height: 700px;
+  width: 600px;
+}
+
+
+a {
+  color: Aquamarine;
+  text-size: 16px;
 }
