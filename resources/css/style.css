@@ -23,3 +23,17 @@ a {
   font-size: 21px;
   color: Gray;
 }
+
+
+.header--main2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+
+.copyright {
+  text-align: right;
+  color: Gray;
+  font-family: sans-serif, monospace;
+}
